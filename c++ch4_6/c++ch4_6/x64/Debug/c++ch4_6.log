@@ -1,3 +1,0 @@
-﻿  6.cpp
-C:\Users\hrin2\Documents\GitHub\winAPI\c++ch4_6\c++ch4_6\6.cpp(13,19): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  c++ch4_6.vcxproj -> C:\Users\hrin2\Documents\GitHub\winAPI\c++ch4_6\x64\Debug\c++ch4_6.exe
