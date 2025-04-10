@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrin2\\Documents\\GitHub\\winAPI\\c\u002B\u002Bch4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E99B8664-3A37-4657-BA8A-AA215E36FEE2}|c\u002B\u002Bch4\\c\u002B\u002Bch4.vcxproj|C:\\Users\\hrin2\\Documents\\GitHub\\winAPI\\c\u002B\u002Bch4\\c\u002B\u002Bch4\\9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E99B8664-3A37-4657-BA8A-AA215E36FEE2}|c\u002B\u002Bch4\\c\u002B\u002Bch4.vcxproj|solutionrelative:c\u002B\u002Bch4\\9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9.cpp",
+              "DocumentMoniker": "C:\\Users\\hrin2\\Documents\\GitHub\\winAPI\\c\u002B\u002Bch4\\c\u002B\u002Bch4\\9.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002Bch4\\9.cpp",
+              "ToolTip": "C:\\Users\\hrin2\\Documents\\GitHub\\winAPI\\c\u002B\u002Bch4\\c\u002B\u002Bch4\\9.cpp",
+              "RelativeToolTip": "c\u002B\u002Bch4\\9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T15:01:08.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
