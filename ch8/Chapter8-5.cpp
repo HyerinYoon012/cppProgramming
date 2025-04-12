@@ -13,7 +13,7 @@ protected:
 	}
 	int pop() {
 		int popElement = arr.front();
-		arr.erase(arr.begin()); // erase()는 인자값으로 주소를 받아야하므로 front(값 반환) 는 사용 불가, begin(주소 반환)
+		arr.erase(arr.begin()); // erase()는 인자를 주소를 받아야하므로 front(값 반환) 는 사용 불가, begin(주소 반환)
 		return popElement;
 	}
 	int ca() {
