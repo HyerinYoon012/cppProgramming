@@ -23,7 +23,7 @@ protected:
 
 class MyQueue : private BaseArray {
 public:
-	MyQueue(int x) : BaseArray(x) {};
+	MyQueue(int x) : BaseArray(x) {}
 	void enqueue(int& n) {
 		push(n);
 	}
