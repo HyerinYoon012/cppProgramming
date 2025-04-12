@@ -3,8 +3,8 @@
 using namespace std;
 
 class BaseArray {
-protected:
 	vector<int> arr;
+protected:
 	BaseArray(int x) {
 		arr.reserve(x);  // 용량 확보
 	}
@@ -19,6 +19,9 @@ protected:
 	int ca() {
 		return arr.capacity();  // 큐의 용량 확인
 	}
+	int si() {
+		return arr.size();
+	}
 };
 
 class MyQueue : private BaseArray {
@@ -32,7 +35,7 @@ public:
 		return q;
 	}
 	int length() {
-		return arr.size();
+		return si();
 	}
 	int capacity() {
 		return ca();
