@@ -12,7 +12,7 @@ protected:
 	}
 	int getX() { return x; }
 	int getY() { return y; }
-	virtual int calculate() = 0;
+	virtual int calculate() = 0; // 순수 가상 함수
 public:
 	void run();
 };
@@ -39,7 +39,7 @@ class ForLoopAdder : public LoopAdder {
 public:
 	ForLoopAdder(const string& s) : LoopAdder(s) {}
 
-	int calculate(){
+	virtual int calculate(){  // 순수 가상 함수 구현
 		x = getX();
 		y = getY();
 
