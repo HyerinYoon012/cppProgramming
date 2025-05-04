@@ -23,7 +23,7 @@ int main() {
 	while (1) {   // 입고
 		cout << "년도>>";
 		cin >> year;
-		cin.ignore(); // 버퍼에 남아 있는 '\n'를 비워줌, cin,ignore() - 버퍼에 남아있는 문자 중 맨앞 문자 1개를 제거
+		cin.ignore(); // 버퍼에 남아 있는 '\n'를 비워줌, cin.ignore() - 버퍼에 남아있는 문자 중 맨앞 문자 1개를 제거
 
 		if (year == -1)break;   // 년도로 -1이 입력되면 입고 입력 종료 다른 메뉴로 넘어감
 
